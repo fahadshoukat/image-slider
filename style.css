@@ -31,6 +31,6 @@
 }
 
 .photo {
-    height: 100%;
+    height: 250px;
     object-fit: cover;
 }
